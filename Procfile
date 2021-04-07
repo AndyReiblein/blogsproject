@@ -1,1 +1,1 @@
-web: gunicorn blogsproject.wsgi
+web: gunicorn blogsproject.wsgi --preload
