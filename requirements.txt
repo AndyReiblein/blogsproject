@@ -7,6 +7,7 @@ isort==5.8.0
 lazy-object-proxy==1.5.2
 mccabe==0.6.1
 Pillow==8.1.2
+psycopg2-binary==2.8.6
 pylint==2.7.2
 pylint-django==2.4.2
 pylint-plugin-utils==0.6
